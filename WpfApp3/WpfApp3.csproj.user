@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Views\AdminDashboard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\CashierDashboard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GestionareBonuri.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GestionareCategorii.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GestionareProducatori.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GestionareProduse.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GestionareStocuri.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GestionareUtilizatori.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views\AdminDashboard.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\CashierDashboard.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GestionareBonuri.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GestionareCategorii.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GestionareProducatori.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GestionareProduse.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GestionareStocuri.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GestionareUtilizatori.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

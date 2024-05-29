@@ -1,0 +1,1052 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\viewmodels\\cashierdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\viewmodels\\cashierdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\views\\cashierdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\views\\cashierdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MakeupBIAShopDatabase/True/SqlTable/dbo.Utilizator.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\database\\magazincontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\database\\magazincontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\migrations\\20240526184146_updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\migrations\\20240526184146_updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\migrations\\20240526164902_getallusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\migrations\\20240526164902_getallusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\views\\gestionarebonuri.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\views\\gestionarebonuri.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\services\\magazinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\services\\magazinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\viewmodels\\bonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\viewmodels\\bonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\viewmodels\\produsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\viewmodels\\produsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\viewmodels\\vanzareviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\viewmodels\\vanzareviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MakeupBIAShopDatabase/True/SqlTable/dbo.Stoc.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MakeupBIAShopDatabase/True/SqlTable/dbo.Produs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MakeupBIAShopDatabase/True/SqlTable/dbo.Producator.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MakeupBIAShopDatabase/True/SqlTable/dbo.Categorie.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MakeupBIAShopDatabase/True/SqlTable/dbo.BonCasaDetalii.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MakeupBIAShopDatabase/True/SqlTable/dbo.BonCasa.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\models\\producator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\models\\producator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\models\\boncasadetalii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\models\\boncasadetalii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\views\\gestionarecategorii.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\views\\gestionarecategorii.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\views\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\views\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\services\\utilizatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\services\\utilizatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\services\\stocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\services\\stocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\services\\raportservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\services\\raportservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\services\\produsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\services\\produsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\services\\producatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\services\\producatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\services\\categorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\services\\categorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\services\\bonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\services\\bonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\migrations\\20240527130414_getbiggestbon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\migrations\\20240527130414_getbiggestbon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\migrations\\20240526165515_getallcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\migrations\\20240526165515_getallcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\migrations\\20240526162815_biainsertuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\migrations\\20240526162815_biainsertuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\migrations\\20240525235809_deleteproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\migrations\\20240525235809_deleteproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\migrations\\20240525235720_deletecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\migrations\\20240525235720_deletecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\migrations\\20240525235643_biashop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\migrations\\20240525235643_biashop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\migrations\\20240526155528_deletestoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\migrations\\20240526155528_deletestoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\migrations\\20240527220612_searchproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\migrations\\20240527220612_searchproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\models\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\models\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\migrations\\20240526164224_insertcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\migrations\\20240526164224_insertcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\models\\stoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\models\\stoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\migrations\\20240526145808_deletebon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\migrations\\20240526145808_deletebon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\database\\magazincontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\database\\magazincontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\models\\vanzare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\models\\vanzare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\services\\vanzariservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\services\\vanzariservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\views\\cashierdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\views\\cashierdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\viewmodels\\categorieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\viewmodels\\categorieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\views\\gestionarecategorii.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\views\\gestionarecategorii.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\models\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\models\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\viewmodels\\producatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\viewmodels\\producatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\viewmodels\\utilizatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\viewmodels\\utilizatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\viewmodels\\stocviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\viewmodels\\stocviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\views\\gestionarestocuri.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\views\\gestionarestocuri.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\views\\gestionarebonuri.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\views\\gestionarebonuri.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\models\\boncasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\models\\boncasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\views\\gestionareproduse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\views\\gestionareproduse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\views\\gestionarestocuri.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\views\\gestionarestocuri.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\wpfapp3\\wpfapp3\\migrations\\20240527193144_insertstoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BD3479-326F-4133-8E6C-4047DA7F9733}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\migrations\\20240527193144_insertstoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 330,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Utilizator [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MakeupBIAShopDatabase/True/SqlTable/dbo.Utilizator.sql",
+              "ToolTip": "dbo.Utilizator [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-27T21:18:52.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestionareBonuri.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\GestionareBonuri.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Views\\GestionareBonuri.xaml.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\GestionareBonuri.xaml.cs",
+              "RelativeToolTip": "WpfApp3\\Views\\GestionareBonuri.xaml.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAkwGgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:42:19.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240526184146_UpdateUser.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240526184146_UpdateUser.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Migrations\\20240526184146_UpdateUser.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240526184146_UpdateUser.cs",
+              "RelativeToolTip": "WpfApp3\\Migrations\\20240526184146_UpdateUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:30:58.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CashierDashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\CashierDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Views\\CashierDashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\CashierDashboard.xaml.cs",
+              "RelativeToolTip": "WpfApp3\\Views\\CashierDashboard.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:17:33.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CashierDashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\CashierDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\ViewModels\\CashierDashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\CashierDashboardViewModel.cs",
+              "RelativeToolTip": "WpfApp3\\ViewModels\\CashierDashboardViewModel.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAADwv14AAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:20:19.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\BonViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\ViewModels\\BonViewModel.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\BonViewModel.cs",
+              "RelativeToolTip": "WpfApp3\\ViewModels\\BonViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:25:33.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MagazinContextDb.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\DataBase\\MagazinContextDb.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\DataBase\\MagazinContextDb.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\DataBase\\MagazinContextDb.cs",
+              "RelativeToolTip": "WpfApp3\\DataBase\\MagazinContextDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:15:34.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MagazinService.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\MagazinService.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Services\\MagazinService.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\MagazinService.cs",
+              "RelativeToolTip": "WpfApp3\\Services\\MagazinService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:00:00.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VanzareViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\VanzareViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\ViewModels\\VanzareViewModel.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\VanzareViewModel.cs",
+              "RelativeToolTip": "WpfApp3\\ViewModels\\VanzareViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:34:36.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240526164902_GetAllUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240526164902_GetAllUsers.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Migrations\\20240526164902_GetAllUsers.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240526164902_GetAllUsers.cs",
+              "RelativeToolTip": "WpfApp3\\Migrations\\20240526164902_GetAllUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:02:25.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Stoc [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MakeupBIAShopDatabase/True/SqlTable/dbo.Stoc.sql",
+              "ToolTip": "dbo.Stoc [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-27T19:16:10.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Produs [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MakeupBIAShopDatabase/True/SqlTable/dbo.Produs.sql",
+              "ToolTip": "dbo.Produs [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-27T19:18:56.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GestionareCategorii.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\GestionareCategorii.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Views\\GestionareCategorii.xaml.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\GestionareCategorii.xaml.cs",
+              "RelativeToolTip": "WpfApp3\\Views\\GestionareCategorii.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:01:36.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProdusViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\ProdusViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\ViewModels\\ProdusViewModel.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\ProdusViewModel.cs",
+              "RelativeToolTip": "WpfApp3\\ViewModels\\ProdusViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:34:38.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.Producator [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MakeupBIAShopDatabase/True/SqlTable/dbo.Producator.sql",
+              "ToolTip": "dbo.Producator [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-27T19:28:45.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.Categorie [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MakeupBIAShopDatabase/True/SqlTable/dbo.Categorie.sql",
+              "ToolTip": "dbo.Categorie [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-27T19:27:54.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.BonCasaDetalii [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MakeupBIAShopDatabase/True/SqlTable/dbo.BonCasaDetalii.sql",
+              "ToolTip": "dbo.BonCasaDetalii [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-28T11:22:07.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UtilizatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\UtilizatorService.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Services\\UtilizatorService.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\UtilizatorService.cs",
+              "RelativeToolTip": "WpfApp3\\Services\\UtilizatorService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:14:40.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.BonCasa [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MakeupBIAShopDatabase/True/SqlTable/dbo.BonCasa.sql",
+              "ToolTip": "dbo.BonCasa [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-27T13:16:05.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StocService.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\StocService.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Services\\StocService.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\StocService.cs",
+              "RelativeToolTip": "WpfApp3\\Services\\StocService.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAowEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:23:59.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BonCasaDetalii.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Models\\BonCasaDetalii.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Models\\BonCasaDetalii.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Models\\BonCasaDetalii.cs",
+              "RelativeToolTip": "WpfApp3\\Models\\BonCasaDetalii.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:39:30.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminDashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\AdminDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Views\\AdminDashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\AdminDashboard.xaml.cs",
+              "RelativeToolTip": "WpfApp3\\Views\\AdminDashboard.xaml.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:56:43.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Producator.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Models\\Producator.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Models\\Producator.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Models\\Producator.cs",
+              "RelativeToolTip": "WpfApp3\\Models\\Producator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:17:32.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp3\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAmwDgAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:13:27.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Categorie.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Models\\Categorie.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Models\\Categorie.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Models\\Categorie.cs",
+              "RelativeToolTip": "WpfApp3\\Models\\Categorie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:35:58.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RaportServices.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\RaportServices.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Services\\RaportServices.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\RaportServices.cs",
+              "RelativeToolTip": "WpfApp3\\Services\\RaportServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:14:59.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProdusServices.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\ProdusServices.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Services\\ProdusServices.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\ProdusServices.cs",
+              "RelativeToolTip": "WpfApp3\\Services\\ProdusServices.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAwwGIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:00:01.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProducatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\ProducatorService.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Services\\ProducatorService.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\ProducatorService.cs",
+              "RelativeToolTip": "WpfApp3\\Services\\ProducatorService.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowDQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:26:55.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategorieService.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\CategorieService.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Services\\CategorieService.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\CategorieService.cs",
+              "RelativeToolTip": "WpfApp3\\Services\\CategorieService.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowEgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:37:22.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BonService.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\BonService.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Services\\BonService.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\BonService.cs",
+              "RelativeToolTip": "WpfApp3\\Services\\BonService.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAuwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:42:46.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240527130414_GetBiggestBon.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240527130414_GetBiggestBon.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Migrations\\20240527130414_GetBiggestBon.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240527130414_GetBiggestBon.cs",
+              "RelativeToolTip": "WpfApp3\\Migrations\\20240527130414_GetBiggestBon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:20:42.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240526165515_GetAllCategories.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240526165515_GetAllCategories.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Migrations\\20240526165515_GetAllCategories.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240526165515_GetAllCategories.cs",
+              "RelativeToolTip": "WpfApp3\\Migrations\\20240526165515_GetAllCategories.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:02:31.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240526162815_BiaInsertUser.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240526162815_BiaInsertUser.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Migrations\\20240526162815_BiaInsertUser.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240526162815_BiaInsertUser.cs",
+              "RelativeToolTip": "WpfApp3\\Migrations\\20240526162815_BiaInsertUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:02:05.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240525235809_DeleteProducer.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240525235809_DeleteProducer.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Migrations\\20240525235809_DeleteProducer.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240525235809_DeleteProducer.cs",
+              "RelativeToolTip": "WpfApp3\\Migrations\\20240525235809_DeleteProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:02:01.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240525235720_DeleteCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240525235720_DeleteCategory.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Migrations\\20240525235720_DeleteCategory.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240525235720_DeleteCategory.cs",
+              "RelativeToolTip": "WpfApp3\\Migrations\\20240525235720_DeleteCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:15:08.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240526155528_DeleteStoc.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240526155528_DeleteStoc.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Migrations\\20240526155528_DeleteStoc.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240526155528_DeleteStoc.cs",
+              "RelativeToolTip": "WpfApp3\\Migrations\\20240526155528_DeleteStoc.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:01:44.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Produs.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Models\\Produs.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Models\\Produs.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Models\\Produs.cs",
+              "RelativeToolTip": "WpfApp3\\Models\\Produs.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA9wAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:43:18.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "WpfApp3\\Commands\\RelayCommand.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:22:21.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240525235643_BiaShop.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240525235643_BiaShop.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Migrations\\20240525235643_BiaShop.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240525235643_BiaShop.cs",
+              "RelativeToolTip": "WpfApp3\\Migrations\\20240525235643_BiaShop.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:16:14.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240526164224_InsertCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240526164224_InsertCategory.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Migrations\\20240526164224_InsertCategory.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240526164224_InsertCategory.cs",
+              "RelativeToolTip": "WpfApp3\\Migrations\\20240526164224_InsertCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:20:49.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240527220612_SearchProducts.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240527220612_SearchProducts.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Migrations\\20240527220612_SearchProducts.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240527220612_SearchProducts.cs",
+              "RelativeToolTip": "WpfApp3\\Migrations\\20240527220612_SearchProducts.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:06:12.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MagazinContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\DataBase\\MagazinContextFactory.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\DataBase\\MagazinContextFactory.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\DataBase\\MagazinContextFactory.cs",
+              "RelativeToolTip": "WpfApp3\\DataBase\\MagazinContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:16:11.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Stoc.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Models\\Stoc.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Models\\Stoc.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Models\\Stoc.cs",
+              "RelativeToolTip": "WpfApp3\\Models\\Stoc.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:25:40.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240526145808_DeleteBon.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240526145808_DeleteBon.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Migrations\\20240526145808_DeleteBon.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240526145808_DeleteBon.cs",
+              "RelativeToolTip": "WpfApp3\\Migrations\\20240526145808_DeleteBon.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:15:09.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\appsettings.json",
+              "RelativeDocumentMoniker": "WpfApp3\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\appsettings.json",
+              "RelativeToolTip": "WpfApp3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T07:15:49.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Vanzare.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Models\\Vanzare.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Models\\Vanzare.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Models\\Vanzare.cs",
+              "RelativeToolTip": "WpfApp3\\Models\\Vanzare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:14:51.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "VanzariServices.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\VanzariServices.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Services\\VanzariServices.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Services\\VanzariServices.cs",
+              "RelativeToolTip": "WpfApp3\\Services\\VanzariServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:11:24.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CashierDashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\CashierDashboard.xaml",
+              "RelativeDocumentMoniker": "WpfApp3\\Views\\CashierDashboard.xaml",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\CashierDashboard.xaml",
+              "RelativeToolTip": "WpfApp3\\Views\\CashierDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T21:17:39.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T07:08:58.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CategorieViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\CategorieViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\ViewModels\\CategorieViewModel.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\CategorieViewModel.cs",
+              "RelativeToolTip": "WpfApp3\\ViewModels\\CategorieViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:25:19.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GestionareCategorii.xaml",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\GestionareCategorii.xaml",
+              "RelativeDocumentMoniker": "WpfApp3\\Views\\GestionareCategorii.xaml",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\GestionareCategorii.xaml",
+              "RelativeToolTip": "WpfApp3\\Views\\GestionareCategorii.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T18:55:35.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Utilizator.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Models\\Utilizator.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Models\\Utilizator.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Models\\Utilizator.cs",
+              "RelativeToolTip": "WpfApp3\\Models\\Utilizator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:34:40.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ProducatorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\ProducatorViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\ViewModels\\ProducatorViewModel.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\ProducatorViewModel.cs",
+              "RelativeToolTip": "WpfApp3\\ViewModels\\ProducatorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:34:27.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UtilizatorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\UtilizatorViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\ViewModels\\UtilizatorViewModel.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\UtilizatorViewModel.cs",
+              "RelativeToolTip": "WpfApp3\\ViewModels\\UtilizatorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:34:32.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "StocViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\StocViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\ViewModels\\StocViewModel.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\StocViewModel.cs",
+              "RelativeToolTip": "WpfApp3\\ViewModels\\StocViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:48:58.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "WpfApp3\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:23:00.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GestionareBonuri.xaml",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\GestionareBonuri.xaml",
+              "RelativeDocumentMoniker": "WpfApp3\\Views\\GestionareBonuri.xaml",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\GestionareBonuri.xaml",
+              "RelativeToolTip": "WpfApp3\\Views\\GestionareBonuri.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T20:46:58.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BonCasa.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Models\\BonCasa.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Models\\BonCasa.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Models\\BonCasa.cs",
+              "RelativeToolTip": "WpfApp3\\Models\\BonCasa.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:44:34.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GestionareProduse.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\GestionareProduse.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Views\\GestionareProduse.xaml.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\GestionareProduse.xaml.cs",
+              "RelativeToolTip": "WpfApp3\\Views\\GestionareProduse.xaml.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:45:42.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GestionareStocuri.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\GestionareStocuri.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Views\\GestionareStocuri.xaml.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\GestionareStocuri.xaml.cs",
+              "RelativeToolTip": "WpfApp3\\Views\\GestionareStocuri.xaml.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:57:12.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "GestionareStocuri.xaml",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\GestionareStocuri.xaml",
+              "RelativeDocumentMoniker": "WpfApp3\\Views\\GestionareStocuri.xaml",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Views\\GestionareStocuri.xaml",
+              "RelativeToolTip": "WpfApp3\\Views\\GestionareStocuri.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T18:57:14.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240527193144_InsertStoc.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240527193144_InsertStoc.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Migrations\\20240527193144_InsertStoc.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\WpfApp3\\WpfApp3\\Migrations\\20240527193144_InsertStoc.cs",
+              "RelativeToolTip": "WpfApp3\\Migrations\\20240527193144_InsertStoc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:31:45.101Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 88,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 18,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

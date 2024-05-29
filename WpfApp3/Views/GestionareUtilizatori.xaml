@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfApp3.Views.GestionareUtilizatori"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Gestionare Utilizatori" Height="450" Width="600"
+        Background="#FEBF">
+    <Grid>
+        <!-- Layout pentru gestionarea utilizatorilor -->
+        <StackPanel Margin="20">
+            <TextBlock Text="ID Utilizator:" FontWeight="Bold"/>
+            <TextBox x:Name="txtUtilizatorId" Margin="0 5 0 10" Width="200"/>
+
+            <TextBlock Text="Nume utilizator:" FontWeight="Bold"/>
+            <TextBox x:Name="txtNume" Margin="0 5 0 10" Width="200"/>
+
+            <TextBlock Text="Parola:" FontWeight="Bold"/>
+            <TextBox x:Name="txtParola" Margin="0 5 0 10" Width="200"/>
+
+            <TextBlock Text="Tip utilizator:" FontWeight="Bold"/>
+            <TextBox x:Name="txtTipUtilizator" Margin="0 5 0 10" Width="200"/>
+
+            <TextBlock Text="Activ:" FontWeight="Bold"/>
+            <CheckBox x:Name="chkIsActive" Margin="0 5 0 10" Width="200"/>
+
+            <Button Content="Adaugă Utilizator" Click="BtnAdaugaUtilizator_Click" Margin="0 5 0 10"/>
+            <Button Content="Actualizează Utilizator" Click="BtnActualizeazaUtilizator_Click" Margin="0 5 0 10"/>
+            <Button Content="Șterge Utilizator" Click="BtnStergeUtilizator_Click" Margin="0 5 0 10"/>
+            <Button Content="Afișează Utilizatori" Click="BtnAfiseazaUtilizatori_Click" Margin="0 5 0 10"/>
+        </StackPanel>
+    </Grid>
+</Window>
